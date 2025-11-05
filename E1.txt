@@ -1,0 +1,6 @@
+Name: Jamie Knowles
+Student Number: C00307559 
+Date: 05/11/25
+Purpose: printing your username using an environment variable
+
+python3 -c "import os; print(os.getenv('USER'))"
